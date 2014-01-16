@@ -1,0 +1,4 @@
+Aihe: Tetris
+Toimiva tetris-peli jossa aluksi tarkoituksena olla vain oikein putovat palikat ja jos j‰‰ aikaa niin pisteenlasku ja nopeutuva putoaminen yms.
+K‰ytt‰j‰t: Pelaaja
+Toiminnot: Liikutella palikoita nuolilla ja mahdollisesti pause
