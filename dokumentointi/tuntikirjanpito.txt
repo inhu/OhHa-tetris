@@ -2,3 +2,4 @@
 about 2h, kaikki mitä 1. deadlineen vaaditaan.
 20.1.
 1h luokkakaavio
+29.1 ruudukko luokkan lisätty ruudukko int[][]

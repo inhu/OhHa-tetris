@@ -7,5 +7,6 @@ public class Main {
         Ruudukko ruudukko = new Ruudukko(10,20);
         Kayttoliittyma kayttoliittyma = new Kayttoliittyma(ruudukko);
         Sovelluslogiikka sovelluslogiiikka = new Sovelluslogiikka(ruudukko);
+        ruudukko.tulostaRuudukko();
     }
 }
