@@ -1,7 +1,6 @@
 package tetris.tetris;
 
-import java.util.Random;
-import tetris.tetris.Palikat.Palikka;
+import tetris.tetris.Palikka;
 
 class Sovelluslogiikka {
 

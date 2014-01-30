@@ -1,6 +1,6 @@
 package tetris.tetris;
 
-class Kayttoliittyma {
+public class Kayttoliittyma {
     Ruudukko ruudukko;
 
     public Kayttoliittyma(Ruudukko ruudukko) {

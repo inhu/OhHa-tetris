@@ -1,6 +1,6 @@
 package tetris.tetris;
 
-class Ruudukko {
+public class Ruudukko {
 
     int korkeus;
     int leveys;

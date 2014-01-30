@@ -4,3 +4,5 @@ about 2h, kaikki mitä 1. deadlineen vaaditaan.
 1h luokkakaavio
 29.1 
 1h ruudukko luokkan lisätty ruudukko int[][]
+30.1
+2h palikka luokkaan lisää ominaisuuksia

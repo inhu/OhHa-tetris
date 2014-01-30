@@ -8,5 +8,7 @@ public class Main {
         Kayttoliittyma kayttoliittyma = new Kayttoliittyma(ruudukko);
         Sovelluslogiikka sovelluslogiiikka = new Sovelluslogiikka(ruudukko);
         ruudukko.tulostaRuudukko();
+        Palikka palikka = new Palikka();
+        palikka.tulostaPalikka(palikka.IPalikka());
     }
 }
