@@ -10,5 +10,7 @@ public class Main {
         ruudukko.tulostaRuudukko();
         Palikka palikka = new Palikka();
         palikka.tulostaPalikka(palikka.IPalikka());
+        palikka.kaannaPalikka();
+        palikka.tulostaPalikka(palikka.IPalikka());
     }
 }
